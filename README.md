@@ -1,2 +1,2 @@
-# JavaScript
-JavaScript
+# All i leraning
+.JavaScript
