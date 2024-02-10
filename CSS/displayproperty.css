@@ -1,0 +1,12 @@
+div{
+  background-color: hsl(0, 78%, 55%);
+  width: 100px;
+  height: 100px;
+  display: block;
+}
+span{
+  background-color: hsl(240, 89%, 64%);
+  width: 100px;
+  height: 100px;
+  display: block;
+}
