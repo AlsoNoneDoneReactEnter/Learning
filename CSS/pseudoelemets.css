@@ -1,0 +1,28 @@
+h1::first-letter{
+  font-size: 2em;
+  font-style: italic;
+}
+p::first-line{
+  background-color: hsl(60, 100%, 78%);
+}
+p::selection{
+  color: green;
+  background-color: darkgray;
+}
+#fruit li::before{
+
+}
+#apple::after{
+  content: "\01F34E";
+}
+#orange::after{
+  content: "\01F34A";
+}
+#banana::after{
+  content: "\01F34C";
+}
+#fruit li::marker{
+  content: "Check ";
+  color: green;
+  font-size: 1.2em;
+}
