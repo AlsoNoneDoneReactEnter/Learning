@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    background-image: url(anime_Chuunibyou_demo_Koi_ga_Shitai_Takanashi_Rikka-1159809.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    backdrop-filter: blur(3px);
+}
+#clock-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+#clock{
+    color: white;
+    font-family: monospace;
+    font-size: 6.5rem;
+    font-weight: bold;
+    text-align: center;
+}
