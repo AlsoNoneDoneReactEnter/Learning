@@ -1,2 +1,2 @@
-# All i leraning
+# All i'm learning
 .JavaScript
