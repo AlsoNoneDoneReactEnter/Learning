@@ -1,2 +1,4 @@
 # All i'm learning
-.JavaScript
+
+javascript
+python
